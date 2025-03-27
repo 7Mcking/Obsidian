@@ -108,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2025-02-26.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-02-26"
+              "title": "Backlinks"
             }
           },
           {
@@ -193,6 +192,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "06ece648af4c371d",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 6
@@ -214,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "849e381630f436e8",
+  "active": "06ece648af4c371d",
   "lastOpenFiles": [
     "Electrical Subsystem.md",
     "Communication.md",
