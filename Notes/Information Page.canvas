@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"7f7e709a98664811","type":"file","file":"Notes/Satellite Testing.md","x":-1280,"y":-920,"width":400,"height":620,"color":"1"},
+		{"id":"ead64db533c7e32a","type":"file","file":"Communication.md","x":-880,"y":-920,"width":400,"height":620,"color":"5"},
+		{"id":"443dafaa575de668","type":"file","file":"Notes/The Basics of Satellite.md","x":-800,"y":-2120,"width":1160,"height":720},
+		{"id":"cedd2da8e4bc9a1c","x":-480,"y":-920,"width":480,"height":620,"color":"2","type":"file","file":"Electrical Subsystem.md"},
+		{"id":"b64c9f320d85616a","x":0,"y":-920,"width":440,"height":620,"color":"4","type":"file","file":"ADCS.md"},
+		{"id":"62ad5b166552be20","x":440,"y":-920,"width":440,"height":620,"type":"file","file":"Mechanical.md"}
+	],
+	"edges":[
+		{"id":"5ba71c52de3d9060","fromNode":"443dafaa575de668","fromSide":"bottom","toNode":"ead64db533c7e32a","toSide":"top"},
+		{"id":"06b5b52e16f69dfe","fromNode":"443dafaa575de668","fromSide":"bottom","toNode":"7f7e709a98664811","toSide":"top"},
+		{"id":"08ddfbe962db0b92","fromNode":"443dafaa575de668","fromSide":"bottom","toNode":"cedd2da8e4bc9a1c","toSide":"top"},
+		{"id":"8a58f566aa92c0a5","fromNode":"443dafaa575de668","fromSide":"bottom","toNode":"b64c9f320d85616a","toSide":"top"},
+		{"id":"5736a163671fb999","fromNode":"443dafaa575de668","fromSide":"bottom","toNode":"62ad5b166552be20","toSide":"top"}
+	]
+}

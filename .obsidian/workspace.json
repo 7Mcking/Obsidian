@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "6fb69f4bfc6e1b31",
+    "type": "split",
+    "children": [
+      {
+        "id": "49c62c6c53749fca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c28a9735dc376eef",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://publish.obsidian.md/git-doc/Getting+Started",
+                "title": "Getting Started - Git Documentation - Obsidian Publish",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Getting Started - Git Documentation - Obsidian Publish"
+            }
+          },
+          {
+            "id": "f0ea8e0b266a1092",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrical Subsystem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Electrical Subsystem"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3327ce63fc6996af",
+    "type": "split",
+    "children": [
+      {
+        "id": "57fc43b39d42efc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79ef17f550eedbc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "484a4460c8b3b706",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "076c68d05fd7f21d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6ffb06cf239f75e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e79f273cdf91c71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "849e381630f436e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2025-02-26.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-26"
+            }
+          },
+          {
+            "id": "29c6cab2fd28fce3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2025-02-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-26"
+            }
+          },
+          {
+            "id": "7453aadb35d2b550",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8b62ca50a902b352",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cb9a665796eb50a2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "75c3417b92ea9fb7",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "4ed7266d500c68f5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "849e381630f436e8",
+  "lastOpenFiles": [
+    "Electrical Subsystem.md",
+    "Communication.md",
+    "Daily/2025-02-27.md",
+    "Daily/2025-02-26.md",
+    "Notes/The Basics of Satellite.md",
+    "Notes/Information Page.canvas",
+    "Mechanical.md",
+    "ADCS.md",
+    "Amplifiers6.png",
+    "750px-Amplifiers5.png",
+    "1500px-Amplifiers4.png",
+    "1500px-Amplifiers7.png",
+    "1125px-Polarization5-1 1.jpg",
+    "1125px-Polarization5-1.jpg",
+    "Antenna3.jpg",
+    "Antenna2.png",
+    "Antenna1.png",
+    "1500px-DataLink2-1.png",
+    "Learnings/Unreal Book Learnings.md",
+    "Learnings/rust.md",
+    "Learnings/Ros2 Book.md",
+    "2025-02-26.md",
+    "Learnings",
+    "Daily",
+    "Untitled.md",
+    "Notes/Satellite Testing.md",
+    "Untitled.canvas",
+    "2025-02-24.md",
+    "Untitled 1.canvas",
+    "Projects",
+    "Notes"
+  ]
+}
