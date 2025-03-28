@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c28a9735dc376eef",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://publish.obsidian.md/git-doc/Getting+Started",
-                "title": "Getting Started - Git Documentation - Obsidian Publish",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Getting Started - Git Documentation - Obsidian Publish"
-            }
-          },
-          {
             "id": "f0ea8e0b266a1092",
             "type": "leaf",
             "state": {
@@ -223,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06ece648af4c371d",
+  "active": "4ed7266d500c68f5",
   "lastOpenFiles": [
     "Electrical Subsystem.md",
     "Communication.md",
