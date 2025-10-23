@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71e543c4fb9e5aaf",
+        "id": "e71bf1c70283f6db",
         "type": "tabs",
         "children": [
           {
-            "id": "d91b01a3859daca1",
+            "id": "089fea301e61a28a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notes/Information Page.canvas",
-                "viewState": {
-                  "x": -200,
-                  "y": -317.2000000000007,
-                  "zoom": -1.0000000000000002
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Information Page"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -223,23 +216,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d91b01a3859daca1",
+  "active": "79ef17f550eedbc2",
   "lastOpenFiles": [
+    "Satellite Notes/The Basics of Satellite.md",
+    "Satellite Notes/Information Page.canvas",
+    "Satellite Notes/Communication.md",
+    "Satellite Notes/Electrical Subsystem.md",
+    "Satellite Notes/Mechanical.md",
     "Images/Artist's_concept_of_NISAR_over_Earth.jpg",
     "Images/Pasted image 20250224213414.png",
     "Images/Pasted image 20250224213514.png",
     "Images/Thermovac.png",
     "Images/PTC3.png",
-    "Notes/Information Page.canvas",
-    "Notes/ADCS.md",
-    "Notes/Satellite Testing.md",
+    "Satellite Notes/ADCS.md",
+    "Satellite Notes/Satellite Testing.md",
     "2025-02-24.md",
     "Images/Amplifiers6.png",
     "Images/750px-Amplifiers5.png",
-    "Notes/Communication.md",
     "Images",
-    "Notes/Mechanical.md",
-    "Notes/Electrical Subsystem.md",
     "Learnings/Unreal Book Learnings.md",
     "Learnings/rust.md",
     "Daily/2025-02-26.md",
@@ -247,16 +241,14 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Daily/2025-02-27.md",
-    "Notes/The Basics of Satellite.md",
     "Images/1500px-Amplifiers4.png",
     "Images/1500px-Amplifiers7.png",
     "Images/1125px-Polarization5-1 1.jpg",
-    "Images/1125px-Polarization5-1.jpg",
     "2025-02-26.md",
     "Learnings",
     "Daily",
     "Untitled.md",
     "Projects",
-    "Notes"
+    "Satellite Notes"
   ]
 }
