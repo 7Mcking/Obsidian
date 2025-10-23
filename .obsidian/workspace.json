@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "54b22579f9a04a74",
+        "id": "71e543c4fb9e5aaf",
         "type": "tabs",
         "children": [
           {
-            "id": "97e5c65eb6b525f2",
+            "id": "d91b01a3859daca1",
             "type": "leaf",
             "state": {
-              "type": "planner-release-notes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Day Planner Release 0.28.0"
+              "type": "canvas",
+              "state": {
+                "file": "Notes/Information Page.canvas",
+                "viewState": {
+                  "x": -200,
+                  "y": 352.4000000000003,
+                  "zoom": -1.0000000000000002
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Information Page"
             }
           }
         ]
@@ -151,8 +158,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -171,12 +178,22 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
             "id": "24c74c0a54f96849",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "d9662b86e6b2abd9",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -194,6 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -205,37 +223,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97e5c65eb6b525f2",
+  "active": "79ef17f550eedbc2",
   "lastOpenFiles": [
+    "Images/Artist's_concept_of_NISAR_over_Earth.jpg",
+    "Images/Pasted image 20250224213414.png",
+    "Images/Pasted image 20250224213514.png",
+    "Images/Thermovac.png",
+    "Images/PTC3.png",
+    "Notes/Information Page.canvas",
+    "Notes/ADCS.md",
+    "Notes/Satellite Testing.md",
+    "2025-02-24.md",
+    "Images/Amplifiers6.png",
+    "Images/750px-Amplifiers5.png",
+    "Notes/Communication.md",
+    "Images",
+    "Notes/Mechanical.md",
+    "Notes/Electrical Subsystem.md",
+    "Learnings/Unreal Book Learnings.md",
+    "Learnings/rust.md",
+    "Daily/2025-02-26.md",
     "Learnings/Ros2 Book.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Learnings/Unreal Book Learnings.md",
-    "Learnings/rust.md",
-    "Electrical Subsystem.md",
-    "Mechanical.md",
-    "Communication.md",
     "Daily/2025-02-27.md",
-    "Daily/2025-02-26.md",
     "Notes/The Basics of Satellite.md",
-    "Notes/Information Page.canvas",
-    "ADCS.md",
-    "Amplifiers6.png",
-    "750px-Amplifiers5.png",
-    "1500px-Amplifiers4.png",
-    "1500px-Amplifiers7.png",
-    "1125px-Polarization5-1 1.jpg",
-    "1125px-Polarization5-1.jpg",
-    "Antenna3.jpg",
-    "Antenna2.png",
-    "Antenna1.png",
-    "1500px-DataLink2-1.png",
+    "Images/1500px-Amplifiers4.png",
+    "Images/1500px-Amplifiers7.png",
+    "Images/1125px-Polarization5-1 1.jpg",
+    "Images/1125px-Polarization5-1.jpg",
     "2025-02-26.md",
     "Learnings",
     "Daily",
     "Untitled.md",
-    "Notes/Satellite Testing.md",
-    "2025-02-24.md",
     "Projects",
     "Notes"
   ]
