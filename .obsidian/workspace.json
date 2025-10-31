@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "4aec6144e983bd1e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,8 +227,9 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "4ed7266d500c68f5",
+  "active": "4aec6144e983bd1e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Notes/Thermovac.png",
     "Notes/The Basics of Satellite.md",
     "Notes/Satellite Testing.md",
@@ -229,10 +245,8 @@
     "2025-02-24.md",
     "1500px-DataLink2-1.png",
     "1500px-Amplifiers7.png",
-    "1500px-Amplifiers4.png",
     "Internal Processes/Sisir Flight Ops Process.canvas",
     "Internal Processes/Sisir WorkShop Process.canvas",
-    "conflict-files-obsidian-git.md",
     "Satellite Notes/Mechanical.md",
     "Satellite Notes/The Basics of Satellite.md",
     "Satellite Notes/Satellite Testing.md",
