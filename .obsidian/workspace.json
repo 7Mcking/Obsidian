@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "54b22579f9a04a74",
+        "id": "7376671c1abe1d2a",
         "type": "tabs",
         "children": [
           {
-            "id": "ced143935401b311",
+            "id": "a4591d6a6374d926",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Untitled.md",
-                "bFile": "Untitled.md",
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Untitled"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -214,8 +214,34 @@
   },
   "active": "4ed7266d500c68f5",
   "lastOpenFiles": [
-    "Internal Processes/Sisir WorkShop Process.canvas",
+    "Notes/Thermovac.png",
+    "Notes/The Basics of Satellite.md",
+    "Notes/Satellite Testing.md",
+    "Notes/Pasted image 20250224213414.png",
+    "Notes/Pasted image 20250224213514.png",
+    "Notes",
+    "Antenna3.jpg",
+    "Antenna2.png",
+    "Antenna1.png",
+    "Amplifiers6.png",
+    "ADCS.md",
+    "750px-Amplifiers5.png",
+    "2025-02-24.md",
+    "1500px-DataLink2-1.png",
+    "1500px-Amplifiers7.png",
+    "1500px-Amplifiers4.png",
     "Internal Processes/Sisir Flight Ops Process.canvas",
+    "Internal Processes/Sisir WorkShop Process.canvas",
+    "conflict-files-obsidian-git.md",
+    "Satellite Notes/Mechanical.md",
+    "Satellite Notes/The Basics of Satellite.md",
+    "Satellite Notes/Satellite Testing.md",
+    "Satellite Notes/Information Page.canvas",
+    "Satellite Notes/Electrical Subsystem.md",
+    "Satellite Notes/ADCS.md",
+    "Satellite Notes/Communication.md",
+    "Satellite Notes",
+    "Images",
     "Internal Processes",
     "Untitled 2.md",
     "Untitled.md",
@@ -231,34 +257,12 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Learnings/Ros2 Book.md",
     "Untitled 1.canvas",
-    "Learnings/Unreal Book Learnings.md",
-    "Learnings/rust.md",
-    "Electrical Subsystem.md",
-    "Mechanical.md",
-    "Communication.md",
-    "Daily/2025-02-27.md",
-    "Daily/2025-02-26.md",
-    "Notes/The Basics of Satellite.md",
     "Notes/Information Page.canvas",
-    "Amplifiers6.png",
-    "750px-Amplifiers5.png",
-    "1500px-Amplifiers4.png",
-    "1500px-Amplifiers7.png",
-    "1125px-Polarization5-1 1.jpg",
-    "1125px-Polarization5-1.jpg",
-    "Antenna3.jpg",
-    "Antenna2.png",
-    "Antenna1.png",
-    "1500px-DataLink2-1.png",
     "Learnings",
     "Daily",
-    "Projects",
-    "Notes"
+    "Projects"
   ]
 }
