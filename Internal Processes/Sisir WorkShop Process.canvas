@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"a92ea47601f62060","type":"text","text":"4 Axis in LAN\nTo give away control to Manufacturing engineer","x":322,"y":147,"width":377,"height":99,"color":"#e90ccb"},
+		{"id":"e1bb085708dc2d02","type":"text","text":"3 Axis NC in Google Drive Folder","x":-698,"y":147,"width":440,"height":106,"color":"2"},
+		{"id":"064fa606282f2911","type":"text","text":"Workshop Sheet - Inclusion of Part Number\n","x":-678,"y":-160,"width":533,"height":86,"color":"4"},
+		{"id":"ce93d470137f0233","type":"text","text":"Circuit team comes and uploads to next cloud\nSomak gets the link, start designing, generate G code, upload into LAN/Google Drive","x":-283,"y":-340,"width":620,"height":114,"color":"6"},
+		{"id":"8dc61e4b4a938e6f","type":"text","text":"Part Number comes first/File name\nAntenna/Circuit - Ask Somak for naming convention, and part number generation\n","x":152,"y":-160,"width":547,"height":86,"color":"3"},
+		{"id":"c2af1b84ddb53903","type":"text","text":"R - Partho, Sourabh\nA - Team Whose work it is + Prakul\nC - Santi, Somak\nI - Owner Team \nHandover - Sani Da","x":-224,"y":220,"width":503,"height":163,"color":"5"},
+		{"id":"32c2fe8fea2ca5f2","type":"text","text":"\nWorkshop Task Process\n","x":-161,"y":0,"width":377,"height":80,"color":"#d31717"}
+	],
+	"edges":[
+		{"id":"84c9669db96c3346","fromNode":"32c2fe8fea2ca5f2","fromSide":"bottom","toNode":"e1bb085708dc2d02","toSide":"top","color":"2"},
+		{"id":"528b72f665610343","fromNode":"32c2fe8fea2ca5f2","fromSide":"bottom","toNode":"a92ea47601f62060","toSide":"top","color":"#f80dad"},
+		{"id":"7154e0ed5f50bed4","fromNode":"32c2fe8fea2ca5f2","fromSide":"top","toNode":"ce93d470137f0233","toSide":"bottom","fromEnd":"arrow","color":"6"},
+		{"id":"0059ccf6a56840eb","fromNode":"32c2fe8fea2ca5f2","fromSide":"top","toNode":"064fa606282f2911","toSide":"bottom","fromEnd":"arrow","color":"4"},
+		{"id":"563b777fac18a371","fromNode":"32c2fe8fea2ca5f2","fromSide":"top","toNode":"8dc61e4b4a938e6f","toSide":"bottom","fromEnd":"arrow","color":"3"}
+	]
+}

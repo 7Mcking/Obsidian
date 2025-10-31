@@ -6,5 +6,12 @@
   "dataview",
   "obsidian-day-planner",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "copilot",
+  "obsidian-annotator",
+  "quick-latex",
+  "latex-ocr",
+  "leader-hotkeys-obsidian",
+  "obsidian-vimrc-support"
 ]

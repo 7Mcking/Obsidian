@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97e5c65eb6b525f2",
+            "id": "ced143935401b311",
             "type": "leaf",
             "state": {
-              "type": "planner-release-notes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Day Planner Release 0.28.0"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Untitled.md",
+                "bFile": "Untitled.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Untitled"
             }
           }
         ]
@@ -44,6 +48,16 @@
             }
           },
           {
+            "id": "076c68d05fd7f21d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
             "id": "484a4460c8b3b706",
             "type": "leaf",
             "state": {
@@ -58,16 +72,6 @@
               },
               "icon": "lucide-search",
               "title": "Search"
-            }
-          },
-          {
-            "id": "076c68d05fd7f21d",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
             }
           }
         ]
@@ -202,14 +206,37 @@
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false,
+      "latex-ocr:LatexOCR": false
     }
   },
-  "active": "97e5c65eb6b525f2",
+  "active": "4ed7266d500c68f5",
   "lastOpenFiles": [
+    "Internal Processes/Sisir WorkShop Process.canvas",
+    "Internal Processes/Sisir Flight Ops Process.canvas",
+    "Internal Processes",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Learnings/Ros2 Book.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Learnings/Unreal Book Learnings.md",
     "Learnings/rust.md",
     "Electrical Subsystem.md",
@@ -219,7 +246,6 @@
     "Daily/2025-02-26.md",
     "Notes/The Basics of Satellite.md",
     "Notes/Information Page.canvas",
-    "ADCS.md",
     "Amplifiers6.png",
     "750px-Amplifiers5.png",
     "1500px-Amplifiers4.png",
@@ -230,12 +256,8 @@
     "Antenna2.png",
     "Antenna1.png",
     "1500px-DataLink2-1.png",
-    "2025-02-26.md",
     "Learnings",
     "Daily",
-    "Untitled.md",
-    "Notes/Satellite Testing.md",
-    "2025-02-24.md",
     "Projects",
     "Notes"
   ]
