@@ -4,39 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "7376671c1abe1d2a",
+        "id": "a2bd3531ae5353b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a4591d6a6374d926",
+            "id": "f276001dd79400ff",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "canvas",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Internal Processes/Processes.canvas",
+                "viewState": {
+                  "x": -80,
+                  "y": 41.876403544825166,
+                  "zoom": 0
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "4aec6144e983bd1e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-layout-dashboard",
+              "title": "Processes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +197,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -227,8 +217,19 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "4aec6144e983bd1e",
+  "active": "f276001dd79400ff",
   "lastOpenFiles": [
+    "Internal Processes/Sisir Flight Ops Process.canvas",
+    "Internal Processes/Sisir WorkShop Process.canvas",
+    "Internal Processes/Processes.canvas",
+    "Learnings/App Script.md",
+    "Untitled.canvas",
+    "Sisir Projects/Idex5.2/Idex5.2.md",
+    "Sisir Projects/Idex5.2",
+    "Sisir Projects",
+    "Learnings/Ros2 Book.md",
+    "Learnings/Unreal Book Learnings.md",
+    "Learnings/rust.md",
     "conflict-files-obsidian-git.md",
     "Notes/Thermovac.png",
     "Notes/The Basics of Satellite.md",
@@ -245,8 +246,6 @@
     "2025-02-24.md",
     "1500px-DataLink2-1.png",
     "1500px-Amplifiers7.png",
-    "Internal Processes/Sisir Flight Ops Process.canvas",
-    "Internal Processes/Sisir WorkShop Process.canvas",
     "Satellite Notes/Mechanical.md",
     "Satellite Notes/The Basics of Satellite.md",
     "Satellite Notes/Satellite Testing.md",
@@ -266,17 +265,11 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Untitled 1.canvas",
     "Notes/Information Page.canvas",
     "Learnings",
-    "Daily",
-    "Projects"
+    "Daily"
   ]
 }

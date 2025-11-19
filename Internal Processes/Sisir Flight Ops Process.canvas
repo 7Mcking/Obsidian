@@ -5,11 +5,11 @@
 		{"id":"b06ada4fc7d67927","type":"text","text":"responsible - Subhendu\naccountable - Subhendu\nconsult - Prakul, Naren, Soum, Urmi\ninform -  Naren/Prakul","x":-880,"y":570,"width":380,"height":190,"color":"1"},
 		{"id":"ace4ab8dd791d644","type":"text","text":"responsible - Subhendu\naccountable - Subhendu/Somnath\nconsult - Naren/Prakul/Soum/Urmi\ninform -  Naren/Prakul","x":-720,"y":-280,"width":380,"height":190,"color":"1"},
 		{"id":"5b04f0763752aeb4","type":"text","text":"Flight Operation Team\n\tPrakul Flight Plan Owner\n\tDebolina - Field (TBD) - Payload\n\tNaren - Drone Development\n\t\n\t","x":-240,"y":-740,"width":420,"height":190,"color":"2"},
-		{"id":"13edc0a6bab12972","type":"text","text":"**Post Flight** **Tasks**\n- Disconnect Batteries: Voltage Check\n- For payload -> Data Copy\n- For Drone -> Data Data Log-> Send it through Remote\n- A2Z -> Screen Recording \n- Go  Pro Recording\n- Drone Packup\n****","x":520,"y":407,"width":782,"height":353},
-		{"id":"3388270fb53fcb02","type":"text","text":"R - Drone Data: Subhendu, Paylaod: Debolina, Camera: Debolilna/Somnath, Screen Recording: Subhendu, Voltage Check - Somnath/Subhendu \nA - Somnath\nC - Prakul/Naren\nI - Prakul/Naren","x":820,"y":160,"width":482,"height":247,"color":"1"},
 		{"id":"ae93d5aa02174a2f","type":"text","text":"Battery Charging \n\n- Voltage Check\n- Data Entry - Subo - PC\n\t- Starting Voltage\n\t- Starting Percentage\n\t- Starting Time\n- ","x":626,"y":-320,"width":391,"height":410},
 		{"id":"5afb5136a8a88b74","type":"text","text":"36 Chargers\n72 Batteries\n","x":626,"y":-520,"width":250,"height":200,"color":"1"},
-		{"id":"153d7b5d17dbd4d6","type":"text","text":"R -> Security People/ Office boys\nA -> Subhendu / Somnath\nC -> Subhendu\nI -> Prakul","x":876,"y":-510,"width":523,"height":190,"color":"1"}
+		{"id":"153d7b5d17dbd4d6","type":"text","text":"R -> Security People/ Office boys\nA -> Subhendu / Somnath\nC -> Subhendu\nI -> Prakul","x":876,"y":-510,"width":523,"height":190,"color":"1"},
+		{"id":"3388270fb53fcb02","type":"text","text":"R - Drone Data: Subhendu, Paylaod: Debolina, Camera: Debolilna/Somnath, Screen Recording: Subhendu, Voltage Check - Somnath/Subhendu \nA - Somnath\nC - Prakul/Naren\nI - Prakul/Naren","x":200,"y":794,"width":482,"height":247,"color":"1"},
+		{"id":"13edc0a6bab12972","type":"text","text":"**Post Flight** **Tasks**\n- Disconnect Batteries: Voltage Check\n- For payload -> Data Copy\n- For Drone -> Data Data Log-> Send it through Remote\n- A2Z -> Screen Recording \n- Go  Pro Recording\n- Drone Packup\n****","x":200,"y":536,"width":782,"height":258}
 	],
 	"edges":[
 		{"id":"0398c19236a777bf","fromNode":"f2667d15f6ad3b06","fromSide":"bottom","toNode":"d42368c74b51b7eb","toSide":"top","label":"20mins"},
