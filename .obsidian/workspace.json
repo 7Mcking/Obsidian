@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a2bd3531ae5353b0",
+        "id": "aea154c05cdcb539",
         "type": "tabs",
         "children": [
           {
-            "id": "f276001dd79400ff",
+            "id": "79dd752d85a52eb9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "split-diff-view",
               "state": {
-                "file": "Internal Processes/Processes.canvas",
-                "viewState": {
-                  "x": -80,
-                  "y": 41.876403544825166,
-                  "zoom": 0
-                }
+                "aFile": "Satellite Notes/Information Page.canvas",
+                "bFile": "Satellite Notes/Information Page.canvas",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Processes"
+              "icon": "diff",
+              "title": "Diff: Information Page.canvas"
             }
           }
         ]
@@ -197,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 707
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,20 +214,36 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "f276001dd79400ff",
+  "active": "79dd752d85a52eb9",
   "lastOpenFiles": [
+    "Work/Internal Processes/Sisir Flight Ops Process.canvas",
+    "conflict-files-obsidian-git.md",
+    "Work/Mechanical Course - Inspace/Speakers.md",
+    "Sisir Projects/Idex5.2/Idex5.2.md",
+    "Work/Internal Processes/Processes.canvas",
+    "Learnings/App Script.md",
+    "git pull.md",
+    "Internal Processes/Processes.canvas",
+    "Work/Satellite Notes/The Basics of Satellite.md",
+    "Work/Satellite Notes/Satellite Testing.md",
+    "Work/Satellite Notes/Mechanical.md",
+    "Work/Satellite Notes/Information Page.canvas",
+    "Work/Satellite Notes/Communication.md",
+    "Work/Satellite Notes/Electrical Subsystem.md",
+    "Work/Satellite Notes/ADCS.md",
+    "Work/Internal Processes/Sisir WorkShop Process.canvas",
+    "Work/Satellite Notes",
+    "Work/Mechanical Course - Inspace",
+    "Work/Internal Processes",
+    "Work",
     "Internal Processes/Sisir Flight Ops Process.canvas",
     "Internal Processes/Sisir WorkShop Process.canvas",
-    "Internal Processes/Processes.canvas",
-    "Learnings/App Script.md",
     "Untitled.canvas",
-    "Sisir Projects/Idex5.2/Idex5.2.md",
     "Sisir Projects/Idex5.2",
     "Sisir Projects",
     "Learnings/Ros2 Book.md",
     "Learnings/Unreal Book Learnings.md",
     "Learnings/rust.md",
-    "conflict-files-obsidian-git.md",
     "Notes/Thermovac.png",
     "Notes/The Basics of Satellite.md",
     "Notes/Satellite Testing.md",
@@ -257,19 +270,6 @@
     "Images",
     "Internal Processes",
     "Untitled 2.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Untitled 1.canvas",
-    "Notes/Information Page.canvas",
-    "Learnings",
-    "Daily"
+    "Untitled 1.canvas"
   ]
 }
