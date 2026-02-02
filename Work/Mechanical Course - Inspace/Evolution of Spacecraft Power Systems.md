@@ -1,7 +1,6 @@
 ---
 Speaker: " Ranganath Ekkundi"
 ---
-
 # Power Sources
 
 ==Developed Technologies==
