@@ -17,22 +17,22 @@
                 "bFile": ".obsidian/workspace.json",
                 "aRef": ""
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-ghost",
+              "title": "split-diff-view"
             }
           },
           {
             "id": "4aec6144e983bd1e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Work/Mechanical Course - Inspace/Evolution of Spacecraft Power Systems.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "Evolution of Spacecraft Power Systems"
             }
           }
         ],
@@ -170,8 +170,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -190,12 +190,22 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
             }
           },
           {
             "id": "24c74c0a54f96849",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
+            }
+          },
+          {
+            "id": "05e060fc3c96ec28",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -213,6 +223,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -221,14 +232,20 @@
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "copilot:Open Copilot Chat": false,
-      "latex-ocr:LatexOCR": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4aec6144e983bd1e",
   "lastOpenFiles": [
+    "Work/Mechanical Course - Inspace/Electrical Integration.md",
+    "Work/Mechanical Course - Inspace/Evolution of Spacecraft Power Systems.md",
+    "Work/Mechanical Course - Inspace/Base Band and Data Handling.md",
+    "Work/Mechanical Course - Inspace/AIT Practicals.md",
+    "Work/Internal Processes/Sisir WorkShop Process.canvas",
+    "Work/Internal Processes/Sisir Flight Ops Process.canvas",
+    "Work/Mechanical Course - Inspace/Mechanical Course - Inspace.md",
+    "Work/Mechanical Course - Inspace/Structural Materials for Spacecraft.md",
+    "Work/Mechanical Course - Inspace/Speakers.md",
     "conflict-files-obsidian-git.md",
     "Notes/Thermovac.png",
     "Notes/The Basics of Satellite.md",
@@ -265,12 +282,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Untitled 1.canvas",
