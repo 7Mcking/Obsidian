@@ -11,10 +11,24 @@
             "id": "1c5addbd2abb5381",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Meetings/2026-03-01 - PL2 - Weekly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-03-01 - PL2 - Weekly"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meetings/2026-03-01 - PL2 - Weekly.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-03-01 - PL2 - Weekly"
             }
           },
           {
@@ -220,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ed7266d500c68f5",
+  "active": "79ef17f550eedbc2",
   "lastOpenFiles": [
     "Templates/Body to Props.md",
     "Meetings/2026-03-01 - Alpha Design - Weekly.md",
