@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "024e91c12f565222",
+        "id": "f87d4870f11190e6",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6cae9306229314",
+            "id": "e8644d384543a65e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "3a3eb958e6324dc7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://help.obsidian.md/import",
-                "title": "Import notes - Obsidian Help",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Import notes - Obsidian Help"
-            }
-          },
-          {
-            "id": "fb40b01d7762e1ef",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "bcd988c0419a357e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,8 +209,9 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "bcd988c0419a357e",
+  "active": "e8644d384543a65e",
   "lastOpenFiles": [
+    "Templates",
     "conflict-files-obsidian-git.md",
     "Daily/Untitled Kanban.md",
     "Daily/2026-02-02.md",
@@ -299,7 +255,6 @@
     "Internal Processes/Sisir WorkShop Process.canvas",
     "Untitled.canvas",
     "Sisir Projects/Idex5.2",
-    "Learnings/Ros2 Book.md",
     "Notes/Thermovac.png",
     "Notes/Pasted image 20250224213414.png",
     "Notes/Pasted image 20250224213514.png",
