@@ -13,5 +13,7 @@
   "quick-latex",
   "latex-ocr",
   "leader-hotkeys-obsidian",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "templater-obsidian",
+  "obsidian-hotkeys-for-templates"
 ]

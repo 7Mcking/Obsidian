@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Tokyo Night",
   "textFontFamily": "Consolas",
   "baseFontSize": 18,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": false
 }

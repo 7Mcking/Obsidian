@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f87d4870f11190e6",
+        "id": "fe9d9b64751dd618",
         "type": "tabs",
         "children": [
           {
-            "id": "e8644d384543a65e",
+            "id": "1c5addbd2abb5381",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 541.0080299377441
   },
   "right": {
     "id": "f6ffb06cf239f75e",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -184,6 +184,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "839bfc5bad3cb692",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 5
@@ -206,11 +216,30 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "copilot:Open Copilot Chat": false,
-      "latex-ocr:LatexOCR": false
+      "latex-ocr:LatexOCR": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e8644d384543a65e",
+  "active": "4ed7266d500c68f5",
   "lastOpenFiles": [
+    "Templates/Body to Props.md",
+    "Meetings/2026-03-01 - Alpha Design - Weekly.md",
+    "Meetings/2026-03-01 - Mech Sync - Daily.md",
+    "Templates/Meeting Template.md",
+    "Templates/Props to Body.md",
+    "Meetings/2026-03-01 - PL2 - Weekly.md",
+    "Meetings/2026-03-01 - Mech Sync  - Weekly.md",
+    "Meetings",
+    "copilot/copilot-conversations/Help_me_building_meeting_template_in_obsidian_using_templater_community@20260301_151612.md",
+    "Untitled.md",
+    "Work/Work.md",
+    "Work/Mechanical Course - Inspace/Base Band and Data Handling.md",
+    "2026-03-01.md",
+    "copilot/copilot-conversations/What_time_is_it@20260301_142559.md",
+    "copilot/copilot-conversations/Summarize_the_recent_updates_from_note.@20260301_141014.md",
+    "copilot/copilot-conversations",
+    "Work/Mechanical Course - Inspace/AIT Practicals.md",
+    "Work/Internal Processes/Sisir Flight Ops Process.canvas",
     "Templates",
     "conflict-files-obsidian-git.md",
     "Daily/Untitled Kanban.md",
@@ -219,42 +248,24 @@
     "Untitled 1.base",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Work/Internal Processes/Sisir Flight Ops Process.canvas",
     "Work/Satellite Notes/Mechanical.md",
     "Work/Satellite Notes/Information Page.canvas",
     "Work/Satellite Notes/Electrical Subsystem.md",
     "Work/Satellite Notes/Communication.md",
-    "Work/Mechanical Course - Inspace/Base Band and Data Handling.md",
     "Work/Mechanical Course - Inspace/Electrical Integration.md",
-    "Work/Mechanical Course - Inspace/AIT Practicals.md",
     "Work/Satellite Notes/Batteries.md",
     "Work/Mechanical Course - Inspace/Speakers.md",
     "Work/Mechanical Course - Inspace/Mechanical Course - Inspace.md",
     "Work/Mechanical Course - Inspace/Evolution of Spacecraft Power Systems.md",
-    "Work/Work.md",
-    "Work/Satellite Notes/The Basics of Satellite.md",
-    "Work/Mechanical Course - Inspace/Structural Materials for Spacecraft.md",
-    "Learnings/Learnings.md",
-    "Excalidraw/Drawing 2025-11-19 15.40.20.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-19 15.41.14.excalidraw.md",
-    "Excalidraw/Drawing 2025-11-19 15.39.21.excalidraw.md",
     "Excalidraw",
-    "Sisir Projects/Idex5.2/Idex5.2.md",
     "Work/Internal Processes/Processes.canvas",
-    "Learnings/App Script.md",
-    "git pull.md",
     "Internal Processes/Processes.canvas",
-    "Work/Satellite Notes/Satellite Testing.md",
-    "Work/Satellite Notes/ADCS.md",
     "Work/Internal Processes/Sisir WorkShop Process.canvas",
     "Work/Satellite Notes",
     "Work/Mechanical Course - Inspace",
-    "Work/Internal Processes",
-    "Work",
     "Internal Processes/Sisir Flight Ops Process.canvas",
     "Internal Processes/Sisir WorkShop Process.canvas",
     "Untitled.canvas",
-    "Sisir Projects/Idex5.2",
     "Notes/Thermovac.png",
     "Notes/Pasted image 20250224213414.png",
     "Notes/Pasted image 20250224213514.png",
