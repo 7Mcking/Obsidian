@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aea154c05cdcb539",
+        "id": "024e91c12f565222",
         "type": "tabs",
         "children": [
           {
-            "id": "79dd752d85a52eb9",
+            "id": "2a6cae9306229314",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Satellite Notes/Information Page.canvas",
-                "bFile": "Satellite Notes/Information Page.canvas",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Information Page.canvas"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f6ffb06cf239f75e",
@@ -214,22 +210,38 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "79dd752d85a52eb9",
+  "active": "2a6cae9306229314",
   "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
     "Work/Internal Processes/Sisir Flight Ops Process.canvas",
-    "conflict-files-obsidian-git.md",
+    "Work/Satellite Notes/Mechanical.md",
+    "Work/Satellite Notes/Information Page.canvas",
+    "Work/Satellite Notes/Electrical Subsystem.md",
+    "Work/Satellite Notes/Communication.md",
+    "Work/Mechanical Course - Inspace/Base Band and Data Handling.md",
+    "Work/Mechanical Course - Inspace/Electrical Integration.md",
+    "Work/Mechanical Course - Inspace/AIT Practicals.md",
+    "Work/Satellite Notes/Batteries.md",
     "Work/Mechanical Course - Inspace/Speakers.md",
+    "Work/Mechanical Course - Inspace/Mechanical Course - Inspace.md",
+    "Work/Mechanical Course - Inspace/Evolution of Spacecraft Power Systems.md",
+    "Work/Work.md",
+    "Work/Satellite Notes/The Basics of Satellite.md",
+    "Work/Mechanical Course - Inspace/Structural Materials for Spacecraft.md",
+    "Learnings/Learnings.md",
+    "Excalidraw/Drawing 2025-11-19 15.40.20.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-19 15.41.14.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-19 15.39.21.excalidraw.md",
+    "Excalidraw",
+    "Daily/Untitled Kanban.md",
+    "conflict-files-obsidian-git.md",
     "Sisir Projects/Idex5.2/Idex5.2.md",
     "Work/Internal Processes/Processes.canvas",
     "Learnings/App Script.md",
     "git pull.md",
     "Internal Processes/Processes.canvas",
-    "Work/Satellite Notes/The Basics of Satellite.md",
     "Work/Satellite Notes/Satellite Testing.md",
-    "Work/Satellite Notes/Mechanical.md",
-    "Work/Satellite Notes/Information Page.canvas",
-    "Work/Satellite Notes/Communication.md",
-    "Work/Satellite Notes/Electrical Subsystem.md",
     "Work/Satellite Notes/ADCS.md",
     "Work/Internal Processes/Sisir WorkShop Process.canvas",
     "Work/Satellite Notes",
@@ -242,11 +254,7 @@
     "Sisir Projects/Idex5.2",
     "Sisir Projects",
     "Learnings/Ros2 Book.md",
-    "Learnings/Unreal Book Learnings.md",
-    "Learnings/rust.md",
     "Notes/Thermovac.png",
-    "Notes/The Basics of Satellite.md",
-    "Notes/Satellite Testing.md",
     "Notes/Pasted image 20250224213414.png",
     "Notes/Pasted image 20250224213514.png",
     "Notes",
@@ -254,22 +262,11 @@
     "Antenna2.png",
     "Antenna1.png",
     "Amplifiers6.png",
-    "ADCS.md",
     "750px-Amplifiers5.png",
-    "2025-02-24.md",
     "1500px-DataLink2-1.png",
     "1500px-Amplifiers7.png",
-    "Satellite Notes/Mechanical.md",
-    "Satellite Notes/The Basics of Satellite.md",
-    "Satellite Notes/Satellite Testing.md",
     "Satellite Notes/Information Page.canvas",
-    "Satellite Notes/Electrical Subsystem.md",
-    "Satellite Notes/ADCS.md",
-    "Satellite Notes/Communication.md",
     "Satellite Notes",
-    "Images",
-    "Internal Processes",
-    "Untitled 2.md",
     "Untitled 1.canvas"
   ]
 }
