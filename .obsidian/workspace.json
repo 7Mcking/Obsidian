@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.0080299377441
+    "width": 401.5087699890137
   },
   "right": {
     "id": "f6ffb06cf239f75e",
@@ -235,7 +235,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79ef17f550eedbc2",
+  "active": "1c5addbd2abb5381",
   "lastOpenFiles": [
     "Templates/Body to Props.md",
     "Meetings/2026-03-01 - Alpha Design - Weekly.md",
