@@ -5,12 +5,7 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
-    "recentlyUsedIcons": [
-      "LiBook",
-      "LiCode",
-      "📅",
-      "LiListTodo"
-    ],
+    "recentlyUsedIcons": [],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -32,12 +27,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Daily": "LiListTodo",
-  "Daily/2025-02-26.md": "📅",
-  "Learnings/rust.md": "LiCode",
-  "Daily/2025-02-27.md": "📅",
-  "Learnings/Ros2 Book.md": "LiBook",
-  "Learnings/Unreal Book Learnings.md": "LiBook",
-  "Daily/2026-02-02.md": "📅"
+  }
 }
