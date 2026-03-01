@@ -11,13 +11,30 @@
             "id": "2a6cae9306229314",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
+            "id": "3a3eb958e6324dc7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://help.obsidian.md/import",
+                "title": "Import notes - Obsidian Help",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Import notes - Obsidian Help"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f6ffb06cf239f75e",
@@ -210,10 +226,12 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "2a6cae9306229314",
+  "active": "4ed7266d500c68f5",
   "lastOpenFiles": [
-    "Untitled 1.base",
     "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
     "Work/Internal Processes/Sisir Flight Ops Process.canvas",
     "Work/Satellite Notes/Mechanical.md",
     "Work/Satellite Notes/Information Page.canvas",
@@ -257,7 +275,6 @@
     "Notes/Thermovac.png",
     "Notes/Pasted image 20250224213414.png",
     "Notes/Pasted image 20250224213514.png",
-    "Notes",
     "Antenna3.jpg",
     "Antenna2.png",
     "Antenna1.png",
@@ -266,7 +283,6 @@
     "1500px-DataLink2-1.png",
     "1500px-Amplifiers7.png",
     "Satellite Notes/Information Page.canvas",
-    "Satellite Notes",
     "Untitled 1.canvas"
   ]
 }
