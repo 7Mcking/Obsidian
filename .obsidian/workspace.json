@@ -32,9 +32,37 @@
               "icon": "globe-2",
               "title": "Import notes - Obsidian Help"
             }
+          },
+          {
+            "id": "fb40b01d7762e1ef",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "bcd988c0419a357e",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -226,8 +254,11 @@
       "latex-ocr:LatexOCR": false
     }
   },
-  "active": "4ed7266d500c68f5",
+  "active": "bcd988c0419a357e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Daily/Untitled Kanban.md",
+    "Daily/2026-02-02.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 3.base",
@@ -252,8 +283,6 @@
     "Excalidraw/Drawing 2025-11-19 15.41.14.excalidraw.md",
     "Excalidraw/Drawing 2025-11-19 15.39.21.excalidraw.md",
     "Excalidraw",
-    "Daily/Untitled Kanban.md",
-    "conflict-files-obsidian-git.md",
     "Sisir Projects/Idex5.2/Idex5.2.md",
     "Work/Internal Processes/Processes.canvas",
     "Learnings/App Script.md",
@@ -270,7 +299,6 @@
     "Internal Processes/Sisir WorkShop Process.canvas",
     "Untitled.canvas",
     "Sisir Projects/Idex5.2",
-    "Sisir Projects",
     "Learnings/Ros2 Book.md",
     "Notes/Thermovac.png",
     "Notes/Pasted image 20250224213414.png",
