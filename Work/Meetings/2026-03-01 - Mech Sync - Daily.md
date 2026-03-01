@@ -25,7 +25,7 @@ tags:
 
 ## Agenda
 
-- [ ] 
+- [x] 
 
 ---
 
@@ -37,10 +37,10 @@ tags:
 
 ## Decisions
 
-- [ ] 
+- [x] 
 
 ---
 
 ## Action Items
 
-- [ ] **Owner:**  • **Task:**  • **Due:** 
+- [x] **Owner:**  • **Task:**  • **Due:**

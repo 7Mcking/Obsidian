@@ -10,6 +10,7 @@ previous_meeting:
 tags:
   - meeting
   - Alpha Design
+project: NPOL
 ---
 
 # TaraUaV
@@ -28,7 +29,7 @@ tags:
 
 ## Agenda
 
-- [ ] 
+- [x] 
 
 ---
 
@@ -40,11 +41,11 @@ tags:
 
 ## Decisions
 
-- [ ] 
+- [x] 
 
 ---
 
 ## Action Items
 
-- [ ] **Owner:**  • **Task:**  • **Due:** 
+- [x] **Owner:**  • **Task:**  • **Due:**
 

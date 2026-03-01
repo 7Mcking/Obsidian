@@ -4,7 +4,7 @@
 		{"id":"d42368c74b51b7eb","type":"text","text":"In Flight Operations\n- Observers are placed along the flight path -> Number of helpers\n\t- Not Possible everywhere\n ","x":-880,"y":760,"width":800,"height":140},
 		{"id":"b06ada4fc7d67927","type":"text","text":"responsible - Subhendu\naccountable - Subhendu\nconsult - Prakul, Naren, Soum, Urmi\ninform -  Naren/Prakul","x":-880,"y":570,"width":380,"height":190,"color":"1"},
 		{"id":"ace4ab8dd791d644","type":"text","text":"responsible - Subhendu\naccountable - Subhendu/Somnath\nconsult - Naren/Prakul/Soum/Urmi\ninform -  Naren/Prakul","x":-720,"y":-280,"width":380,"height":190,"color":"1"},
-		{"id":"5b04f0763752aeb4","type":"text","text":"Flight Operation Team\n\tPrakul Flight Plan Owner\n\tDebolina - Field (TBD) - Payload\n\tNaren - Drone Development\n\t\n\t","x":-240,"y":-740,"width":420,"height":190,"color":"2"},
+		{"id":"5b04f0763752aeb4","type":"text","text":"Flight Operation Team\n\tPrakul Flight Plan Owner\n\tDebolina - Field (TBD) - Payload\n\tNaren - Drone Development\n\t\n\t#drone ","x":-240,"y":-740,"width":420,"height":190,"color":"2"},
 		{"id":"ae93d5aa02174a2f","type":"text","text":"Battery Charging \n\n- Voltage Check\n- Data Entry - Subo - PC\n\t- Starting Voltage\n\t- Starting Percentage\n\t- Starting Time\n- ","x":626,"y":-320,"width":391,"height":410},
 		{"id":"5afb5136a8a88b74","type":"text","text":"36 Chargers\n72 Batteries\n","x":626,"y":-520,"width":250,"height":200,"color":"1"},
 		{"id":"153d7b5d17dbd4d6","type":"text","text":"R -> Security People/ Office boys\nA -> Subhendu / Somnath\nC -> Subhendu\nI -> Prakul","x":876,"y":-510,"width":523,"height":190,"color":"1"},

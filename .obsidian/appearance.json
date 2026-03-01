@@ -1,7 +1,15 @@
 {
-  "cssTheme": "Obsidianite",
+  "cssTheme": "",
   "textFontFamily": "Consolas",
   "baseFontSize": 18,
   "theme": "obsidian",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "eisenhower-kanban",
+    "eisen-kanban",
+    "eisenhover",
+    "eisenhower-grid",
+    "eisenhower-table"
+  ],
+  "showViewHeader": true
 }

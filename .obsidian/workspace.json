@@ -4,31 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9d9b64751dd618",
+        "id": "a9f0c3f1e5371af0",
         "type": "tabs",
         "children": [
           {
-            "id": "1c5addbd2abb5381",
+            "id": "773de35e0bef4b30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Meetings/2026-03-01 - PL2 - Weekly.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Work/1. Project View.base",
+                "viewName": "Project Tasks"
               },
-              "icon": "lucide-file",
-              "title": "2026-03-01 - PL2 - Weekly"
+              "icon": "lucide-table",
+              "title": "1. Project View"
+            }
+          },
+          {
+            "id": "825a07ca73ba02ad",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://help.obsidian.md/bases/create-base",
+                "title": "Create a base - Obsidian Help",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Create a base - Obsidian Help"
             }
           }
         ]
@@ -73,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:important",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,39 +102,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "849e381630f436e8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Meetings/2026-03-01 - PL2 - Weekly.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2026-03-01 - PL2 - Weekly"
-            }
-          },
-          {
-            "id": "29c6cab2fd28fce3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Daily/2025-02-26.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-26"
-            }
-          },
-          {
             "id": "7453aadb35d2b550",
             "type": "leaf",
             "state": {
@@ -152,12 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Work/Task List/Tasks.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Tasks"
             }
           },
           {
@@ -209,13 +180,41 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "155579ac276b242d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Templates/Eisenhower Table (Interactive).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Eisenhower Table (Interactive)"
+            }
+          },
+          {
+            "id": "0dfcc9bef9235674",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 707
+    "width": 556.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,55 +231,58 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "copilot:Open Copilot Chat": false,
       "latex-ocr:LatexOCR": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1c5addbd2abb5381",
+  "active": "4ed7266d500c68f5",
   "lastOpenFiles": [
-    "Templates/Body to Props.md",
-    "Meetings/2026-03-01 - Alpha Design - Weekly.md",
-    "Meetings/2026-03-01 - Mech Sync - Daily.md",
-    "Templates/Meeting Template.md",
-    "Templates/Props to Body.md",
-    "Meetings/2026-03-01 - PL2 - Weekly.md",
-    "Meetings/2026-03-01 - Mech Sync  - Weekly.md",
-    "Meetings",
-    "copilot/copilot-conversations/Help_me_building_meeting_template_in_obsidian_using_templater_community@20260301_151612.md",
-    "Untitled.md",
-    "Work/Work.md",
-    "Work/Mechanical Course - Inspace/Base Band and Data Handling.md",
-    "2026-03-01.md",
-    "copilot/copilot-conversations/What_time_is_it@20260301_142559.md",
-    "copilot/copilot-conversations/Summarize_the_recent_updates_from_note.@20260301_141014.md",
-    "copilot/copilot-conversations",
-    "Work/Mechanical Course - Inspace/AIT Practicals.md",
+    "Work/TaskMap.canvas",
+    "Work/1. Project View.base",
+    "Work/Task List/Views/Eisenhower Table.md",
+    "Work/Task List/Views",
+    "Work/Task List/Views/Eisenhower Matrix - Task List.md",
+    "Untitled mindmap.md",
+    "Work/Internal Processes/Sisir WorkShop Process.canvas",
     "Work/Internal Processes/Sisir Flight Ops Process.canvas",
-    "Templates",
-    "conflict-files-obsidian-git.md",
-    "Daily/Untitled Kanban.md",
-    "Daily/2026-02-02.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "Work/Meetings/2026-03-01 - PL2 - Weekly.md",
+    "Work/Task List/Avionics Tasks.md",
+    "Work/Task List/Mech Tasks.md",
+    "Work/Task List/Self Task Dump.md",
+    "Work/Meetings/2026-03-01 - Alpha Design - Weekly.md",
+    "Untitled.md",
+    "Excalidraw/MentalView.excalidraw.md",
+    "Templates/Meeting Template.md",
     "Untitled.base",
+    "copilot/copilot-conversations/Help_me_building_meeting_template_in_obsidian_using_templater_community@20260301_151612.md",
+    "copilot/copilot-conversations/When_I_switch_to_kanban_view_why_cant_i_see@20260301_190539.md",
+    "copilot/copilot-conversations/Untitled_Chat@20260301_194723.md",
+    "copilot/copilot-conversations/Tasks@20260301_194707.md",
+    "Work/Task List/Tasks (Assigned Template).md",
+    "Templates/Eisenhover Matrix Table (Kanban + Assigned).md",
+    "Note Name.md",
+    "Templates/Body to Props.md",
+    "Design Hexacopter with L Band V2.md",
+    "Images/900px-ATC3.png",
+    "Work/Task List/Drone Tasks",
+    "Work/Task List",
+    "Excalidraw/Drawing 2025-11-19 15.39.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-19 15.41.14.excalidraw.md",
+    "Excalidraw/Drawing 2025-11-19 15.40.20.excalidraw.md",
+    "Work/Meetings/2026-03-01 - Mech Sync - Daily.md",
+    "copilot/memory",
+    "Work/Meetings",
+    "copilot/copilot-conversations",
+    "Templates",
     "Untitled 1.base",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "Work/Satellite Notes/Mechanical.md",
-    "Work/Satellite Notes/Information Page.canvas",
-    "Work/Satellite Notes/Electrical Subsystem.md",
-    "Work/Satellite Notes/Communication.md",
-    "Work/Mechanical Course - Inspace/Electrical Integration.md",
-    "Work/Satellite Notes/Batteries.md",
-    "Work/Mechanical Course - Inspace/Speakers.md",
-    "Work/Mechanical Course - Inspace/Mechanical Course - Inspace.md",
-    "Work/Mechanical Course - Inspace/Evolution of Spacecraft Power Systems.md",
-    "Excalidraw",
+    "Learnings/Satellite Notes/Information Page.canvas",
     "Work/Internal Processes/Processes.canvas",
     "Internal Processes/Processes.canvas",
-    "Work/Internal Processes/Sisir WorkShop Process.canvas",
-    "Work/Satellite Notes",
-    "Work/Mechanical Course - Inspace",
     "Internal Processes/Sisir Flight Ops Process.canvas",
     "Internal Processes/Sisir WorkShop Process.canvas",
-    "Untitled.canvas",
     "Notes/Thermovac.png",
     "Notes/Pasted image 20250224213414.png",
     "Notes/Pasted image 20250224213514.png",
@@ -290,7 +292,6 @@
     "Amplifiers6.png",
     "750px-Amplifiers5.png",
     "1500px-DataLink2-1.png",
-    "1500px-Amplifiers7.png",
     "Satellite Notes/Information Page.canvas",
     "Untitled 1.canvas"
   ]

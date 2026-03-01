@@ -1,0 +1,76 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Meetings
+    filters:
+      and:
+        - file.hasProperty("tags")
+        - file.tags.contains("meeting")
+    order:
+      - file.name
+      - file.tags
+      - file.folder
+      - file.embeds
+      - file.basename
+      - project
+    sort:
+      - property: project
+        direction: ASC
+    columnSize:
+      file.folder: 179
+  - type: table
+    name: Team Tasks
+    filters:
+      and:
+        - file.inFolder("Work/Task List")
+    order:
+      - file.name
+      - tags
+      - type
+      - previous_meeting
+      - meeting_title
+      - date
+      - attendees
+    imageAspectRatio: 1.05
+    indentProperties: false
+    markers: number
+    imageFit: contain
+    image: file.file
+    columnSize:
+      note.type: 178
+  - type: cards
+    name: Views
+    filters:
+      and:
+        - file.tags.contains("dashboard")
+    order:
+      - file.name
+      - file.basename
+      - file.tags
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
+    rowHeight: medium
+    cardSize: 730
+    imageAspectRatio: 0.25
+    image: note.image
+  - type: table
+    name: Project Tasks
+    filters:
+      and:
+        - file.tags.containsAny("mech", "drone", "antenna", "satellite")
+    order:
+      - file.name
+      - file.fullname
+      - file.folder
+      - file.ctime
+      - file.basename
+      - project
+      - file.tags
+    sort:
+      - property: people
+        direction: ASC
+    columnSize:
+      file.name: 146

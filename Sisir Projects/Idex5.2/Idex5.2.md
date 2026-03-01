@@ -6,22 +6,22 @@ Work Breadown Structure
 	- Major Tasks
 	- Sub Tasks
 - Milestone 1
-	- [ ] Antenna Design
-	- [ ] Structure Design
-	- [ ] Documents are with Somak, Antenna documentation is with Susamay
-	- [ ] Structural Analysis still needs to be done!
+	- [x] Antenna Design
+	- [x] Structure Design
+	- [x] Documents are with Somak, Antenna documentation is with Susamay
+	- [x] Structural Analysis still needs to be done!
 - Milestone 2
 	- Prototype Development
-		- [ ] Mechanical Structure
-		- [ ] Mesh antenna Configuration
-		- [ ] Motor configuration
-		- [ ] Feed Antenna Development- Easy
-		- [ ] Deployment Mechanism Tests
+		- [x] Mechanical Structure
+		- [x] Mesh antenna Configuration
+		- [x] Motor configuration
+		- [x] Feed Antenna Development- Easy
+		- [x] Deployment Mechanism Tests
 - Milestone 3	
-	- [ ] Engineering Model Tests
-	- [ ] Near Field Facility
+	- [x] Engineering Model Tests
+	- [x] Near Field Facility
 - Milestone 4
-	- [ ] Space Antenna Model - Flight Model
+	- [x] Space Antenna Model - Flight Model
 - Milestone 5
 	- Qualification and Testing
 

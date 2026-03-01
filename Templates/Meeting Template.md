@@ -64,7 +64,7 @@ tags: [meeting, "<% client %>"]
 
 ## Agenda
 
-- [ ] 
+- [x] 
 
 ---
 
@@ -76,10 +76,10 @@ tags: [meeting, "<% client %>"]
 
 ## Decisions
 
-- [ ] 
+- [x] 
 
 ---
 
 ## Action Items
 
-- [ ] **Owner:**  • **Task:**  • **Due:** 
+- [x] **Owner:**  • **Task:**  • **Due:**

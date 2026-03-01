@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPhoneCall"
+      "↘",
+      "LiActivity",
+      "LiListCheck",
+      "👟",
+      "LiMessageCircleHeart"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,8 +34,20 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Meetings": {
+  "Templates": "LiLayoutTemplate",
+  "Sisir Projects": "LiProjector",
+  "Learnings": "📚",
+  "Images": "LiImages",
+  "copilot": "LiMessageCircleHeart",
+  "Daily": "👟",
+  "Work/Task List/Mech Tasks.md": "LiListCheck",
+  "Work/Task List/Self Task Dump.md": "LiListCheck",
+  "Work/Task List/Avionics Tasks.md": "LiListCheck",
+  "Excalidraw": "↘",
+  "Work/Meetings": {
     "iconName": "LiPhoneCall",
     "iconColor": "#87c80e"
-  }
+  },
+  "Work/Task List/Views/Eisenhower Matrix - Task List.md": "⏲",
+  "Work/Task List/Views/Eisenhower Table.md": "LiActivity"
 }
