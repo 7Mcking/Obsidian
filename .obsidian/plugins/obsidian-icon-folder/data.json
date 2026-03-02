@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiView",
+      "LiWorkflow",
       "↘",
       "LiActivity",
-      "LiListCheck",
-      "👟",
-      "LiMessageCircleHeart"
+      "LiListCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,8 @@
     "iconColor": "#87c80e"
   },
   "Work/Task List/Views/Eisenhower Matrix - Task List.md": "⏲",
-  "Work/Task List/Views/Eisenhower Table.md": "LiActivity"
+  "Work/Task List/Views/Eisenhower Table.md": "LiActivity",
+  "Work": "LiWorkflow",
+  "Work/Task List": "LiListCheck",
+  "Work/Task List/Views": "LiView"
 }

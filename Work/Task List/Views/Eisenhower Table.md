@@ -5,9 +5,6 @@ tags:
   - views
 cssclass: eisen-table
 ---
-# 📋 Eisenhower Matrix 
-
-
 ```dataviewjs
 // Collect tasks (incomplete)
 const all = dv.pages("").file.tasks.where(t => !t.completed);
