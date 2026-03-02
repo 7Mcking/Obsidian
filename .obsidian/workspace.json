@@ -11,10 +11,14 @@
             "id": "d1f8ff56098b1dce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Work/Task List/Mech Tasks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mech Tasks"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f6ffb06cf239f75e",
@@ -219,6 +222,8 @@
   },
   "active": "d1f8ff56098b1dce",
   "lastOpenFiles": [
+    "Work/Task List/Self Task Dump.md",
+    "Work/1. Project View.base",
     "Daily/2026-02-02.md",
     "conflict-files-obsidian-git.md",
     "Work/Work.md",
@@ -227,14 +232,12 @@
     "Work/Task List/Views/Eisenhower Table.md",
     "Work/Task List/Views",
     "Work/Task List/Mech Tasks.md",
-    "Work/Task List/Self Task Dump.md",
     "Work/Task List/Avionics Tasks.md",
     "Work/Task List",
     "Work/Meetings/2026-03-01 - Mech Sync - Daily.md",
     "Work/Meetings/2026-03-01 - PL2 - Weekly.md",
     "Work/Meetings/2026-03-01 - Alpha Design - Weekly.md",
     "Work/Meetings",
-    "Work/1. Project View.base",
     "Templates/Meeting Template.md",
     "Templates/Props to Body.md",
     "Templates/Body to Props.md",
@@ -254,7 +257,6 @@
     "Learnings/Mechanical Course - Inspace/Structural Materials for Spacecraft.md",
     "Learnings/Mechanical Course - Inspace/Electrical Integration.md",
     "Learnings/Mechanical Course - Inspace/Speakers.md",
-    "Learnings/Mechanical Course - Inspace/Base Band and Data Handling.md",
     "Learnings/Mechanical Course - Inspace",
     "Untitled 3.base",
     "Work/Internal Processes/Sisir Flight Ops Process.canvas",

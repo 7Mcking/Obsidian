@@ -22,6 +22,7 @@ tags:
 
 ## Sohom
 
+- [ ] Get the CFRP plate manufactured for L Band payload flight on Hexacopter drone #urgent #important [due:: 2026-03-02] 
 - [ ] 🔼 Stamping Machine Vendor List #important #generic
 - [ ] Complete sheet metal manufacturing of electronic packages #urgent #PL2
 
