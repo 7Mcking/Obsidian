@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"15c4da23bea6cd02","type":"file","file":"Work/Task List/Mech Tasks.md","x":-21,"y":-504,"width":400,"height":400},
+		{"id":"913e698936417ddb","type":"file","file":"Work/Task List/Avionics Tasks.md","x":-560,"y":70,"width":700,"height":450},
+		{"id":"a58ed36733b05ef2","type":"text","text":"Payload","x":-460,"y":-334,"width":250,"height":60},
+		{"id":"b2d629006df57186","type":"text","text":"Drone","x":460,"y":265,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6ad76baaaa5a2a1c","fromNode":"a58ed36733b05ef2","fromSide":"right","toNode":"15c4da23bea6cd02","toSide":"left"},
+		{"id":"49019a3a49dcd7d6","fromNode":"b2d629006df57186","fromSide":"left","toNode":"913e698936417ddb","toSide":"right"}
+	]
+}
