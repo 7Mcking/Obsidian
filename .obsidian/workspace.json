@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Task List/Self Task Dump.md",
+                "file": "Work/Research/Research Sources Database.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Self Task Dump"
+              "title": "Research Sources Database"
+            }
+          },
+          {
+            "id": "dac8f30d5a9d27e3",
+            "type": "leaf",
+            "state": {
+              "type": "univer-xlsx",
+              "state": {
+                "file": "aerospace_intelligence_database_apac_enriched_v2.xlsx"
+              },
+              "icon": "lucide-file",
+              "title": "aerospace_intelligence_database_apac_enriched_v2"
             }
           }
         ]
@@ -79,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f6ffb06cf239f75e",
@@ -233,48 +246,58 @@
       "command-palette:Open command palette": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false,
+      "sheet-plus:Create excel file": false,
+      "univer:Univer": false
     }
   },
-  "active": "4ed7266d500c68f5",
+  "active": "391481b0cf81f754",
   "lastOpenFiles": [
-    "Work/Task List/Mech Tasks.md",
+    "aerospace_intelligence_database_apac_enriched_v2.xlsx",
+    "Work/Research/Research Sources Database.md",
+    "Work/Research/Research Websites.md",
+    "~$aerospace_intelligence_database_apac_enriched_v2.xlsx",
+    "Work/1. Project View.base",
+    "Daily/2026-03-09.md",
+    "Starlink satellite tracker.md",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views",
+    "2026-03-09.md",
     "Work/TaskMap.canvas",
-    "Untitled.base",
-    "Untitled 1.base",
+    "Work/Task List/Views/Eisenhower Matrix - Task List.md",
+    "Work/Task List/Mech Tasks.md",
+    "Work/Task List/Avionics Tasks.md",
     "Work/Task List/Views/Eisenhower Table.md",
     "Work/Task List/Self Task Dump.md",
-    "Work/Task List/Avionics Tasks.md",
-    "Work/Task List/Views/Eisenhower Matrix - Task List.md",
-    "Work/1. Project View.base",
+    "Work/Project Specific Knowledge Base/NRTO.md",
+    "Templates/Body to Props.md",
     "Daily/2026-02-02.md",
     "conflict-files-obsidian-git.md",
     "Work/Work.md",
-    "Work/Task List/Views",
-    "Work/Task List",
     "Work/Meetings/2026-03-01 - Mech Sync - Daily.md",
     "Work/Meetings/2026-03-01 - PL2 - Weekly.md",
     "Work/Meetings/2026-03-01 - Alpha Design - Weekly.md",
-    "Work/Meetings",
     "Templates/Meeting Template.md",
     "Templates/Props to Body.md",
-    "Templates/Body to Props.md",
-    "Templates",
     "Sisir Projects/Idex5.2/Idex5.2.md",
-    "Sisir Projects/Idex5.2",
-    "Sisir Projects",
     "Learnings/Satellite Notes/The Basics of Satellite.md",
     "Learnings/Satellite Notes/Communication.md",
     "Learnings/Satellite Notes/Satellite Testing.md",
     "Learnings/Satellite Notes/Mechanical.md",
     "Learnings/Satellite Notes/Information Page.canvas",
-    "Learnings/Satellite Notes/Batteries.md",
-    "Learnings/Satellite Notes/Electrical Subsystem.md",
-    "Learnings/Satellite Notes/ADCS.md",
-    "Learnings/Satellite Notes",
-    "Learnings/Mechanical Course - Inspace/Structural Materials for Spacecraft.md",
-    "Learnings/Mechanical Course - Inspace/Electrical Integration.md",
-    "Learnings/Mechanical Course - Inspace/Speakers.md",
     "Work/Internal Processes/Sisir Flight Ops Process.canvas",
     "Images/750px-Amplifiers5.png",
     "Work/Internal Processes/Sisir WorkShop Process.canvas",

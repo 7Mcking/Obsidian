@@ -16,8 +16,9 @@ views:
       - project
     sort:
       - property: project
-        direction: ASC
+        direction: DESC
     columnSize:
+      file.name: 284
       file.folder: 179
   - type: table
     name: Team Tasks
@@ -60,7 +61,7 @@ views:
     name: Project Tasks
     filters:
       and:
-        - file.tags.containsAny("mech", "drone", "antenna", "satellite")
+        - file.tags.containsAny("mech", "drone", "antenna", "satellite", "space", "aerospace")
     order:
       - file.name
       - file.fullname
@@ -69,7 +70,10 @@ views:
       - file.basename
       - project
       - file.tags
+      - tags
     sort:
+      - property: project
+        direction: ASC
       - property: people
         direction: ASC
     columnSize:
