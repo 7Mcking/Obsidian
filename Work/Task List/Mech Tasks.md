@@ -11,16 +11,16 @@ project: NT
 ---
 ## Santinath
 
-- [ ] Design PL2 package with L and P Band #PL2 📅 2026-03-07 ⏫ #mech
+- [x] Design PL2 package with L and P Band #PL2 📅 2026-03-07 ⏫ #mech
 - [ ] Design Hexacopter with L Band V2 📅 2026-03-02 🔺 🏁 keep 🆔 htwd5g #drone #urgent #important #PL1 #mech 
-	- [ ] Get payload tested in Jagdalpur, Inform Vrinda about the same
+	- [x] Get payload tested in Jagdalpur, Inform Vrinda about the same
 
 
 ## Somak
 
 - [ ] Structural Analysis of Kaiju Drone 📅 2026-03-04 🔼 ➕ 2026-03-01 #drone #important #mech
 - [x] 3D print all parts
-- [ ] Get Vibration Inputs from Soma 📅 2026-03-02 ⏫ ➕ 2026-03-01 #drone #important #mech
+- [x] Get Vibration Inputs from Soma 📅 2026-03-02 ⏫ ➕ 2026-03-01 #drone #important #mech
 
 
 ## Sohom
