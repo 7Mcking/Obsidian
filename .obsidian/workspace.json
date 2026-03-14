@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e71bf1c70283f6db",
+        "id": "2cbea75f4bf22fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "089fea301e61a28a",
+            "id": "3baca675c77060b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Learnings/Unreal Book Learnings.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Unreal Book Learnings"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 643.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,39 +221,59 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ed7266d500c68f5",
+  "active": "3baca675c77060b5",
   "lastOpenFiles": [
-    "Learnings/Ros2 Book.md",
-    "Learnings/rust.md",
-    "Satellite Notes/The Basics of Satellite.md",
+    "Learnings/Unreal Book Learnings.md",
+    "conflict-files-obsidian-git.md",
+    "Work/Research/Research Sources Database.md",
+    "Work/Research/Research Websites.md",
+    "Work/TaskMap.canvas",
+    "Work/1. Project View.base",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "aerospace_intelligence_database_apac_enriched_v2.xlsx",
+    "Work/Task List/Views/Eisenhower Table.md",
+    "Work/Task List/Views/Eisenhower Matrix - Task List.md",
+    "Work/Task List/Views",
+    "Work/Task List/Self Task Dump.md",
+    "Work/Task List/Mech Tasks.md",
+    "Work/Task List/Avionics Tasks.md",
+    "Work/Project Specific Knowledge Base/NRTO.md",
+    "Work/Meetings/2026-03-01 - PL2 - Weekly.md",
+    "Work/Meetings/2026-03-01 - Mech Sync - Daily.md",
+    "Work/Internal Processes/Sisir WorkShop Process.canvas",
+    "Work/Internal Processes/Sisir Flight Ops Process.canvas",
+    "Work/Task List",
+    "Work/Research",
+    "Work/Project Specific Knowledge Base",
+    "Work/Meetings",
+    "Work/Internal Processes",
+    "Learnings/Satellite Notes/Information Page.canvas",
     "Satellite Notes/Information Page.canvas",
-    "Satellite Notes/Communication.md",
-    "Satellite Notes/Electrical Subsystem.md",
-    "Satellite Notes/Mechanical.md",
     "Images/Artist's_concept_of_NISAR_over_Earth.jpg",
     "Images/Pasted image 20250224213414.png",
     "Images/Pasted image 20250224213514.png",
     "Images/Thermovac.png",
     "Images/PTC3.png",
-    "Satellite Notes/ADCS.md",
-    "Satellite Notes/Satellite Testing.md",
-    "2025-02-24.md",
     "Images/Amplifiers6.png",
     "Images/750px-Amplifiers5.png",
-    "Images",
-    "Learnings/Unreal Book Learnings.md",
-    "Daily/2025-02-26.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Daily/2025-02-27.md",
     "Images/1500px-Amplifiers4.png",
     "Images/1500px-Amplifiers7.png",
-    "Images/1125px-Polarization5-1 1.jpg",
-    "2025-02-26.md",
-    "Learnings",
-    "Daily",
-    "Untitled.md",
-    "Projects",
-    "Satellite Notes"
+    "Images/1125px-Polarization5-1 1.jpg"
   ]
 }

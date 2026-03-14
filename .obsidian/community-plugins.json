@@ -6,5 +6,21 @@
   "dataview",
   "obsidian-day-planner",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "copilot",
+  "obsidian-annotator",
+  "quick-latex",
+  "latex-ocr",
+  "leader-hotkeys-obsidian",
+  "obsidian-vimrc-support",
+  "templater-obsidian",
+  "obsidian-hotkeys-for-templates",
+  "obsidian-kanban",
+  "obsidian-excalidraw-plugin",
+  "obsidian-enhancing-mindmap",
+  "obsidian-excel-to-markdown-table",
+  "tasknotes",
+  "sheet-plus",
+  "univer"
 ]
