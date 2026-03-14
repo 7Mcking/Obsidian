@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "b6a00ff2c370f4a4",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +236,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4eb9e805b633b2a1",
+  "active": "b6a00ff2c370f4a4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "aerospace_intelligence_database_apac_enriched_v2.xlsx",
     "Work/Task List/Views/Eisenhower Table.md",
     "Work/Task List/Views/Eisenhower Matrix - Task List.md",
@@ -250,7 +266,6 @@
     "Templates/Meeting Template.md",
     "Templates/Body to Props.md",
     "Templates",
-    "TaskNotes/Views/tasks-default.base",
     "Sisir Projects/Idex5.2/Idex5.2.md",
     "Learnings/Satellite Notes/The Basics of Satellite.md",
     "Learnings/Satellite Notes/Satellite Testing.md",
